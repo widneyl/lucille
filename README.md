@@ -1,4 +1,4 @@
-# README do Lucille
+# Lucille
 
 ![Logo](assets/Lucille.png)
 
